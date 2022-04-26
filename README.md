@@ -1,2 +1,2 @@
-# ReactAppDemo
-ReactAppDemo for assignment
+# MyDemoApp
+This demo assignment
